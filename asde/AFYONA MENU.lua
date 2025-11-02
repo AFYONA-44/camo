@@ -24,6 +24,24 @@ end
 
 
 Susano.InjectResource("monitor", [[
+
+        print("CODED BY ")
+    print("    :+:         #++:::::::::    +:+          +:+   ::::::::      ::::      +:+        :+:    ")
+    print(" :+:   :+:      #++              +:+       +:+    :+:    :+:     +:+:+:    +#+     :+:   :+: ")
+    print("+:+     +:+     #++                +:+  +:+       +:+    +:+     +:+ +:+   +:+    :+:     +:+")
+    print("+#++:++#++:     #++:::::::::         ###          +#+    +:+     +#+  +:+  #+#    +#++:++#++:")
+    print("+#+     +#+     #++                  ###          #+#    #+#     +#+   +:+ +#+    +#+     +#+")
+    print("#++     #++     #++                  ###          #+#    #+#     #+#     #+#      +#+     +#+")
+    print("###     ###     #++                  ###           ########      #+#              +#+     +#+")
+    print("")
+
+
+    print("^7 Use SUSANO to bypass detected anti-cheats.")
+    print("Discord: ^5https://discord.gg/uyHGnbt4Ty^7")
+    print("")
+    print("^1SafeEvents Fucked, Enjoy!^7")
+
+
  print("write camon on f8")
 HandleConfig = function() end
   _Executor_Strings = {["susano"] = "v3"}
