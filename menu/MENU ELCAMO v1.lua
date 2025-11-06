@@ -52,7 +52,7 @@ end)
 
 local doCheck = true
 local checkInterval = 25000 -- 25 ثانية
-local message = "coded by AFYONA   |    bypass enabling"
+local message = "^6coded by ELAFYON^1 |^4 bypassing enable"
 
 CreateThread(function()
     while true do
